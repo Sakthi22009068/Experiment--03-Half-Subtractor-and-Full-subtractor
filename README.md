@@ -32,20 +32,23 @@ Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
 Write the detailed procedure here 
 
 
-## Program:
+## Program:![program](https://user-images.githubusercontent.com/130567548/233020243-0c078c82-a1f4-4dbb-8d0b-129daebabe9c.jpg)
+
 /*
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by:SAKTHI MURUGAN 
+RegisterNumber:212222050050  
 */
 
-## Output:
+## Output:![WhatsApp Image 2023-04-19 at 14 05 33](https://user-images.githubusercontent.com/130567548/233020374-5effe0d4-c30d-4379-9e29-df278522c8f4.jpg)
+
 
 ## Truthtable
 
 
 
-##  RTL realization
+##  RTL realization![diagram](https://user-images.githubusercontent.com/130567548/233020299-1098a100-7410-4430-8fa9-18bdb0554d52.jpg)
+
 
 
 ## Timing diagram 
